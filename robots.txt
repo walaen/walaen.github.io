@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /index.html
+Allow: /posts/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /message/
+Allow: /about/
+Disallow: /img/
+Disallow: /js/
+Disallow: /css/
+Disallow: /404.html
+Disallow: /content.json
+Sitemap: https://walaen.com/sitemap.xml
+Sitemap: https://walaen.com/baidu_sitemap.xml
